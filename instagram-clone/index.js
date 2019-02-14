@@ -8,6 +8,7 @@ import cors from 'cors';
 import models from './models'
 //import typeDefs from './schemas'
 //import resolvers from './resolvers'
+//Se realiza cambio - prueba git
 
 //Mezclar todos los archivos de carpeta types y resolvers
 import path from 'path';
