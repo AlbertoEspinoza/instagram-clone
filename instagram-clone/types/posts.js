@@ -1,4 +1,5 @@
 // Se describe los tipos de campos a utilzar
+// Se modifica post en type
 export default `
 
   type Post{
